@@ -853,7 +853,7 @@ sub buildStopwordTables{
     contain containing contains corresponding could course currently
     d definitely described despite did different do does doing done down downwards
     during e each edu eg eight either else elsewhere enough entirely especially et etc even ever
-    every everybody everyone everything everywhere ex exactly example except f far few
+    every everybody everyone everything everywhere ex exactly example f far few
     fifth first five followed following follows for former formerly forth four from
     further furthermore g get gets getting given
     gives go goes going gone got gotten greetings h had happens hardly has have
