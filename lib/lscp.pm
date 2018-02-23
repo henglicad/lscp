@@ -879,7 +879,7 @@ sub buildStopwordTables{
     thereupon these they think third this thorough thoroughly those though three through throughout thru
     thus to together too took toward towards tried tries truly try trying twice two u
     un under unfortunately unless unlikely until unto up upon us use used useful
-    uses using usually uucp v value various very via viz vs w want
+    uses using usually uucp v various very via viz vs w want
     wants was way we welcome well went were what whatever when whence whenever
     where whereafter whereas whereby wherein whereupon wherever whether which while
     whither who whoever whole whom whose why will willing wish with within without wonder would would
